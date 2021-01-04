@@ -32,6 +32,12 @@ There will be
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
+Here are the three observations based on the research data
+1. Temperature increase as the latitude nears the equator.
+2. In the Northern Hemisphere, the humidity decreases. This might be because as it gets colder up there, it tends to get drier.
+3.
+
+
 ### Part II - VacationPy
 
 
