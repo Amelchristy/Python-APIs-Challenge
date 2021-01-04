@@ -32,19 +32,19 @@ There will be
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
-Here are the three observations based on the research data
-1. Temperature increase as the latitude nears the equator.
-2. In the Northern Hemisphere, the humidity decreases. This might be because as it gets colder up there, it tends to get drier.
-3.
+*Here are the three observations based on the research data;
+
+  1. Temperature increases as the latitude nears the equator and decreases as the latitude goes further from the equator.
+  2. In the Northern Hemisphere, the humidity decreases. This might be because as it gets colder up there, it tends to get drier.
+  3. The data shows that the humidity in both Southern and Northern Hemisphere are not or very weakly correlated with the latitude.
 
 
-### Part II - VacationPy
+## Part II - VacationPy
 
 
 
 * Heatmap that displays the humidity for every city from the part I of the homework.
 
-  ![heatmap](Images/heatmap.png)
 
 Ideal weather conditions and show the hotels within these weather conditions:
   * A max temperature lower than 80 degrees but higher than 70.
@@ -57,7 +57,6 @@ Ideal weather conditions and show the hotels within these weather conditions:
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
 
 
 ### Copyright
